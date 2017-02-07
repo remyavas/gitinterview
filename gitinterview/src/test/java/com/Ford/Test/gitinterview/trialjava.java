@@ -11,7 +11,7 @@ public class trialjava {
 		public static void main(String[] args)
 		{
 			gitprogram gitpro=new gitprogram();
-			gitpro.hello();
+			gitpro.hell();
 			
 			
 		}
