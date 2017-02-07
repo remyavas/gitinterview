@@ -11,7 +11,11 @@ public class trialjava {
 		public static void main(String[] args)
 		{
 			gitprogram gitpro=new gitprogram();
+<<<<<<< HEAD
 			gitpro.hell();
+=======
+			gitpro.helloo();
+>>>>>>> branch 'master' of https://github.com/remyavas/gitinterview
 			
 			
 		}
