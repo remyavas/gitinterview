@@ -2,7 +2,7 @@ package com.Ford.Test.gitinterview;
 
 public class gitprogram
 {
-public void hello()
+public void helloo()
 {
 	
 System.out.println("hello  in  git");
@@ -20,7 +20,7 @@ System.out.println("how r u1");
 	public static void main(String[] args)
 	{
 		gitprogram gitpro=new gitprogram();
-		gitpro.hello();
+		gitpro.helloo();
 		
 		
 	}
