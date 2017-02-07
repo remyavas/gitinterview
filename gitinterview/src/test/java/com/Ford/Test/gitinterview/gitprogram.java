@@ -7,7 +7,7 @@ public void hello()
 	
 System.out.println("hello  in  git");
 System.out.println("how r u");
-
+System.out.println("how r  u u");
 }
 
 public void hello1()
