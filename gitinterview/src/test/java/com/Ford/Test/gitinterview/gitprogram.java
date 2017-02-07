@@ -10,11 +10,11 @@ System.out.println("how r u");
 
 }
 
-public void helloo()
+public void hello1()
 {
 	
-System.out.println("helloo  in  git");
-System.out.println("howw r u");
+System.out.println("hello  in  git1");
+System.out.println("how r u1");
 
 }
 	public static void main(String[] args)
