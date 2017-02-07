@@ -1,7 +1,7 @@
 package com.Ford.Test.gitinterview;
 
 public class trialjava {
-	public void hello()
+	public void helloo()
 	{
 		
 	System.out.println("hello  in  git");
