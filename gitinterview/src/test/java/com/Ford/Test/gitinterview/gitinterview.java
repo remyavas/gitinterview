@@ -1,5 +1,7 @@
 package com.Ford.Test.gitinterview;
 
+import org.testng.annotations.Test;
+
 public class gitinterview {
 	
 	@Test
