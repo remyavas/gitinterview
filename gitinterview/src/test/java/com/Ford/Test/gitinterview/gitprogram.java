@@ -23,6 +23,7 @@ System.out.println("how r u1");
 	{
 		gitprogram gitpro=new gitprogram();
 		gitpro.hell();
+		int[] rry={2,3,4};
 		
 		
 	}
